@@ -34,8 +34,7 @@ Fabric Healthcare API built on [Nest](https://github.com/nestjs/nest) framework 
 ## Setting up and Running the app
 
 Copy the .env.example file to .env and set the environment variables.
-bash
-MONGODB_URI=YOUR_MONGODB_URI
+```MONGODB_URI=YOUR_MONGODB_URI```
 
 #### Development
 
