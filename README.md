@@ -40,7 +40,7 @@ MONGODB_URI=YOUR_MONGODB_URI
 #### Development
 
 To start the application using docker, ensure you docker application is running and then run the following commands:
-bash
+
 
 ```
 docker compose up
